@@ -40,6 +40,12 @@ Then onto the creation. You use the normal create command for the flutter applic
 flutter create flutter_basic_web
 ```
 
+To create production build for deployment, run:
+
+```
+flutter build web
+```
+
 ## Tutorial
 
 * Tutorial: https://www.filledstacks.com/post/create-and-deploy-a-flutter-web-app/
